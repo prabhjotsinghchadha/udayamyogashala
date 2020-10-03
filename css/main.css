@@ -673,9 +673,6 @@ div[class*="col-"].spacer-double-xxs, .spacer-double-xxs {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
-.opacity-3{
-  
-}
 .shadow{
   box-shadow: 3px 3px 3px #cdcdcd, -3px -3px 3px #fafafa;
 }
